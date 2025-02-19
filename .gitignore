@@ -1,7 +1,9 @@
 hand-in.txt
 **/.ipynb_checkpoints
 internal
-student_notebooks
-student_exercises
-full_notebooks
+student_notebooks/*
+student_exercises/*
+full_notebooks/*
 datasets
+
+!student_notebooks/general_info.ipynb
