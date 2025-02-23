@@ -23,9 +23,10 @@ This online course provides an introduction into the programming language *Pytho
 | Control flows                                       | **Conditionals**<br> - if-statement<br> - if-else statement<br> - chained conditional<br> - nested conditional<br> - keyboard input<br>**Iterations**<br>- for-loop<br>- looping and counting<br> - while, break, continue   | control-flows (03)  | exercises_cf                  | 21.02.  |
 | Functions                                         | - function definition<br> - Parameters<br> - Arguments ([non] default)<br> - variables and parameters are local<br> - traceback<br> - fruitful and void functions<br> - lambda functions<br> - callables   | classes-functions  |                   |  21.02. |
 |  |  |  |  |  |
-| Classes                                         | - class definition<br> - Instantiation \& calling<br> - instance vs. class variables<br> - inheritance | classes-functions  | exercises-classes                  |   |
-| Spyder IDE  | - core panes<br> - toolbar<br> - getting started<br> - customize Spyder<br> - first modules | intro-spyder |  |   |
-| Python Packaging  | - motivation<br>- python packaging with `hatch`<br>- configuration of `hatch`<br>- directory structure<br>- package installation<br>- import your package<br>- create a git repo of your package  | python-packaging |  |   |
+| Classes                                         | - class definition<br> - Instantiation \& calling<br> - instance vs. class variables<br> - inheritance | classes-functions  | exercises-classes                  | 24.02.  |
+| Spyder IDE  | - core panes<br> - toolbar<br> - getting started<br> - customize Spyder<br> - first modules | intro-spyder |  |  24.02. |
+| Formatting and Documentation | - `flake8`<br> - `black`<br> - docstrings for functions and class<br> - type hints with `mypy` | formatting-docs |  | 24.02. |
+| Python Packaging  | - motivation<br>- python packaging with `hatch`<br>- configuration of `hatch`<br>- directory structure<br>- package installation<br>- import your package<br>- create a git repo of your package  | python-packaging |  | 24.02. |
 |  |  |  |  |  |
 | Data wrangling with pandas                      | - DataFrame<br>- Basic operations<br>- loading, printing, saving DataFrames<br>- Select&Filter<br>- Aggregate \& group-by<br>- reshaping: sorting, pivoting  | intro-pandas  |     |   |
 | Data visualization with pyplot and seaborn      | **Pyplot**<br>- figures<br>- create new figure<br>- indexing subplots<br>- properties of axes<br>- working with data<br>**Seaborn**<br>- relational data<br>- distributions<br>- categorical data  | plotting  |     |   |
