@@ -2,8 +2,6 @@ hand-in.txt
 **/.ipynb_checkpoints
 internal
 student_notebooks_private
-full_notebooks/*
-datasets
 py_scripts
 .flake8
 .spyproject
