@@ -33,11 +33,12 @@ The project should include the following aspects:
 ||                                                                                                              | \- Define 2-3 classes with several functions | 
 ||                                                                                                              | \- At least one function should visualize your data (e.g., using pyplot, seaborn)
 |4| `Assertion` checks for input & basic workflows                                                              | at least validity check of your function arguments                |
-|5| `Docstring` for your functions, classes                                                                     | at least description of the goal of each function                      |
+|5| `Docstring` for your functions, classes                                                                     | at least: Short description, Parameters, Returns (if applicable), <br> If you provide more sections (e.g., Examples) you get a **plus point**                      |
 |6| `Comments` in your Code                                                                                     | each "concept" (equivalent to one or more lines of code) should be accompanied by a comment                                                  |
 |7| Create a `tutorial` with Jupyter Notebook                                                                   | describe your package in detail and showcase each function. Your tutorial should incl. at least:                         |
 ||                                                                                                              | \- Markdown blocks in which you explain the problem and each function in words                         |
 ||                                                                                                              | \- Code blocks in which you import your package and call its functions                                                                 |
+|8| `Code Formatting` with `flake8` and `black`                                                                 | **(Optional)** If your code adheres to PEP standards you will get a **plus point**; if not I **won't** reduce a point                             |
 
 ## Example folder structure of final project
 
